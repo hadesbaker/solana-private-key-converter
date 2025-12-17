@@ -1,0 +1,11 @@
+[package]
+name = "solana-private-key-generator"
+version = "0.0.1"
+edition = "2024"
+authors = ["Taki Hades Baker Alyasri"]
+description = "A Solana private key generator from a private key in JSON format."
+license = "MIT"
+
+[dependencies]
+serde_json = "1"
+bs58 = "0.5"

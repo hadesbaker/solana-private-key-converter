@@ -90,7 +90,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "solana-private-key-generator"
+name = "solana-private-key-converter"
 version = "0.0.1"
 dependencies = [
  "bs58",

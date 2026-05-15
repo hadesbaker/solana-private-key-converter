@@ -1,9 +1,9 @@
 [package]
-name = "solana-private-key-generator"
+name = "solana-private-key-converter"
 version = "0.0.1"
 edition = "2024"
 authors = ["Taki Hades Baker Alyasri"]
-description = "A Solana private key generator from a private key in JSON format."
+description = "Converts a Solana keypair JSON file to its Base58 private-key string."
 license = "MIT"
 
 [dependencies]
